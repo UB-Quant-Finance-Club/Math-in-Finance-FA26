@@ -1,1 +1,1 @@
-# Math-in-Finance-FA26-
+# Math in Finance workshop [FA26]
